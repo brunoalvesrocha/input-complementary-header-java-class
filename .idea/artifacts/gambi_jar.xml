@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="gambi:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/gambi_jar</output-path>
+    <root id="archive" name="gambi.jar">
+      <element id="module-output" name="gambi-header" />
+    </root>
+  </artifact>
+</component>
